@@ -1,9 +1,9 @@
 ---
-package_name: "simple-package"
-package_title: "Simple Package"
-package_desc: "A simple package to say Hello World."
+package_name: "maxs-package"
+package_title: "Max's Package"
+package_desc: "Random strings Max uses"
 package_version: "0.1.0"
-package_author: "Federico Terzi"
-package_repo: "https://github.com/federico-terzi/espanso-package-example"
+package_author: "Max Kay"
+package_repo: "https://github.com/montrealist/espanso-package-example"
 ---
-A simple package to say "Hello World"
+Random strings Max uses

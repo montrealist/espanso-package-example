@@ -1,8 +1,10 @@
 # Simple package
 
-name: simple-package 
+name: maxs-package 
 parent: default
 
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
+  - trigger: ":ate"
+    replace: "Advanced Translation Editor"
+  - trigger: ":cte"
+    replace: "Classic Translation Editor"
